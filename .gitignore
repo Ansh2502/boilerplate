@@ -48,7 +48,11 @@ Thumbs.db
 *.log
 *.tsbuildinfo
 .turbo/
+
+# Firebase service-account credentials (NEVER commit)
 service-account.json
+capstone-task1-run-fa181-firebase-adminsdk-fbsvc-19d3c48210.json
+
 docs/BOILERPLATE-COMPARISON.md
 docs/BOILERPLATE-BENCHMARK.md
 
